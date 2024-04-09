@@ -1,13 +1,3 @@
-/*
-** access.c for access in /home/lecot_f/Minishell
-** 
-** Made by Florian Lécot
-** Login   <lecot_f@epitech.net>
-** 
-** Started on  Thu Jan 29 10:01:45 2015 Florian Lécot
-** Last update Sun Mar  8 23:31:24 2015 Florian Lécot
-*/
-
 #include	<stdlib.h>
 #include	<unistd.h>
 #include	"mysh.h"
